@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-label="Nasıl çalışıyorum: tarif et, parçalara böl, geliştir, testle doğrula">
+<rect width="1200" height="240" rx="18" fill="#0b1220"/>
+<g>
+  <rect x="50" y="30" width="250" height="180" rx="16" fill="#111a2c" stroke="#2b3d5c" stroke-width="1.5"/>
+  <rect x="50" y="30" width="250" height="5" rx="2.5" fill="#38bdf8"/>
+  <circle cx="96" cy="88" r="30" fill="#38bdf8" fill-opacity=".14"/>
+  <g transform="translate(96 88)"><path d="M-18 -14 h36 a6 6 0 0 1 6 6 v16 a6 6 0 0 1 -6 6 h-18 l-10 8 v-8 h-8 a6 6 0 0 1 -6 -6 v-16 a6 6 0 0 1 6 -6z" fill="none" stroke="#38bdf8" stroke-width="3" stroke-linejoin="round"/><line x1="-10" y1="-4" x2="10" y2="-4" stroke="#38bdf8" stroke-width="3" stroke-linecap="round"/><line x1="-10" y1="4" x2="4" y2="4" stroke="#38bdf8" stroke-width="3" stroke-linecap="round"/></g>
+  <text x="72" y="150" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#e6edf3">1 · Tarif et</text>
+  <text x="72" y="176" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15.5" fill="#9fb0c3">Gereksinim, kurallar,</text>
+  <text x="72" y="196" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15.5" fill="#9fb0c3">“bitti” tanımı</text>
+</g><g><line x1="304" y1="120" x2="332" y2="120" stroke="#9fb0c3" stroke-width="3" stroke-dasharray="5 5"><animate attributeName="stroke-dashoffset" from="20" to="0" dur="1.2s" repeatCount="indefinite"/></line><path d="M326 113 L336 120 L326 127" fill="none" stroke="#9fb0c3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g>
+  <rect x="340" y="30" width="250" height="180" rx="16" fill="#111a2c" stroke="#2b3d5c" stroke-width="1.5"/>
+  <rect x="340" y="30" width="250" height="5" rx="2.5" fill="#a78bfa"/>
+  <circle cx="386" cy="88" r="30" fill="#a78bfa" fill-opacity=".14"/>
+  <g transform="translate(386 88)"><circle cx="-16" cy="0" r="6" fill="#a78bfa"/><circle cx="16" cy="-14" r="5" fill="#a78bfa"/><circle cx="16" cy="0" r="5" fill="#a78bfa"/><circle cx="16" cy="14" r="5" fill="#a78bfa"/><path d="M-10 0 C0 0 2 -14 11 -14 M-10 0 H11 M-10 0 C0 0 2 14 11 14" fill="none" stroke="#a78bfa" stroke-width="3"/></g>
+  <text x="362" y="150" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#e6edf3">2 · Parçalara böl</text>
+  <text x="362" y="176" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15.5" fill="#9fb0c3">Küçük, bağımsız</text>
+  <text x="362" y="196" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15.5" fill="#9fb0c3">görevler</text>
+</g><g><line x1="594" y1="120" x2="622" y2="120" stroke="#9fb0c3" stroke-width="3" stroke-dasharray="5 5"><animate attributeName="stroke-dashoffset" from="20" to="0" dur="1.2s" repeatCount="indefinite"/></line><path d="M616 113 L626 120 L616 127" fill="none" stroke="#9fb0c3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g>
+  <rect x="630" y="30" width="250" height="180" rx="16" fill="#111a2c" stroke="#2b3d5c" stroke-width="1.5"/>
+  <rect x="630" y="30" width="250" height="5" rx="2.5" fill="#fbbf24"/>
+  <circle cx="676" cy="88" r="30" fill="#fbbf24" fill-opacity=".14"/>
+  <g transform="translate(676 88)"><path d="M-8 -14 L-20 0 L-8 14 M8 -14 L20 0 L8 14" fill="none" stroke="#fbbf24" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/><line x1="4" y1="-16" x2="-4" y2="16" stroke="#fbbf24" stroke-width="3" stroke-linecap="round"/></g>
+  <text x="652" y="150" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#e6edf3">3 · Geliştir</text>
+  <text x="652" y="176" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15.5" fill="#9fb0c3">Parça parça kur,</text>
+  <text x="652" y="196" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15.5" fill="#9fb0c3">ayrı çalışma kopyası</text>
+</g><g><line x1="884" y1="120" x2="912" y2="120" stroke="#9fb0c3" stroke-width="3" stroke-dasharray="5 5"><animate attributeName="stroke-dashoffset" from="20" to="0" dur="1.2s" repeatCount="indefinite"/></line><path d="M906 113 L916 120 L906 127" fill="none" stroke="#9fb0c3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g>
+  <rect x="920" y="30" width="250" height="180" rx="16" fill="#111a2c" stroke="#2b3d5c" stroke-width="1.5"/>
+  <rect x="920" y="30" width="250" height="5" rx="2.5" fill="#34d399"/>
+  <circle cx="966" cy="88" r="30" fill="#34d399" fill-opacity=".14"/>
+  <g transform="translate(966 88)"><path d="M0 -20 L17 -13 V1 C17 11 9 18 0 21 C-9 18 -17 11 -17 1 V-13 Z" fill="none" stroke="#34d399" stroke-width="3" stroke-linejoin="round"/><path d="M-8 1 L-2 7 L9 -6" fill="none" stroke="#34d399" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/></g>
+  <text x="942" y="150" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#e6edf3">4 · Testle doğrula</text>
+  <text x="942" y="176" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15.5" fill="#9fb0c3">Test, kod incelemesi,</text>
+  <text x="942" y="196" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15.5" fill="#9fb0c3">sır taraması</text>
+</g>
+<path d="M1045 212 V228 H175 V214" fill="none" stroke="#34d399" stroke-opacity=".55" stroke-width="2" stroke-dasharray="4 6"/>
+<text x="600" y="226" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" fill="#9fb0c3" style="paint-order:stroke" stroke="#0b1220" stroke-width="6">geçmezse başa dön</text>
+</svg>
